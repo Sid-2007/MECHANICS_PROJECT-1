@@ -1,0 +1,6 @@
+{
+  "name": "Torsional Pendulum Virtual Physics Lab",
+  "description": "Interactive 3D simulation and virtual laboratory for studying torsional oscillations, moment of inertia, and shear modulus of suspension wire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
